@@ -1,6 +1,6 @@
 # Data Analysis in Python: From Zero to Hero
 
-**Prepared by:** [Your Name]
+**Prepared by:** Mr.Sushant Khadake
 
 ---
 
